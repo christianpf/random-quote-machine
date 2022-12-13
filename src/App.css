@@ -1,0 +1,30 @@
+
+
+
+
+.App {
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  font-size: large;
+}
+
+h1 {
+  background-color: white;
+}
+
+#quote-box {
+  width: 600px;
+  height: 200px;
+
+  background-color: white;
+  padding: 10px;
+}
+
+
+#text {
+  font-style: italic;
+}
